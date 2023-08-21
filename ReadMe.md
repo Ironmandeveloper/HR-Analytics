@@ -1,24 +1,19 @@
-# Human Resource Management Solution
+# ORBIT-Human Resource Management Solution
 
-A tailor-made and Integrated HR management solution with access control, payroll and advanced reporting features.
+ORBIT-HRMS – Human Resource Management Solution.A tailor-made and Integrated HR management solution with access control, payroll and advanced reporting features.
 
 ## :hammer_and_wrench: Technology Stack
 
-- Node.js
-- Express
-- MongoDB
-- Mongoose
+- .Net
+- SQL
+- React Native
 
 ## :rocket: Getting Started
 
 The system is completely cloud-based, SaaS based HRMS that easily integrates with other products.HRMS provides an easy to use and powerful online interface for employee scheduling, payroll, HR functions and much more.
 
-### Prerequisites
 
-You need to have Node.js and MongoDB installed on your machine to run this project locally. MongoDB should be running on `localhost:27017` (the default MongoDB port).
-Here is the current Url from .env `mongodb://localhost:27017/beerDispenser`
-
-## :clipboard: Models
+## :clipboard: Features
 
 ###  Organizational Management 
 The Company, Departments and Branches: Creates and maintains organizational structures and their departments, branches, positions, and jobs. 
