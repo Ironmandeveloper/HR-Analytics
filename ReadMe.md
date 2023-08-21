@@ -9,11 +9,6 @@ Cut out unnecessary HR admin, improve your payroll accuracy and spend more time 
 - SQL
 - .Net
 
-## :rocket: Getting Started
-
-The system is completely cloud-based, SaaS based HRMS that easily integrates with other products.HRMS provides an easy to use and powerful online interface for employee scheduling, payroll, HR functions and much more.
-
-
 ## :clipboard: Features
 
 ###  Organizational Management 
