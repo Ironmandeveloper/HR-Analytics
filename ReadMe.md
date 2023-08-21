@@ -1,12 +1,13 @@
 # ORBIT-Human Resource Management Solution
 
-ORBIT-HRMS – Human Resource Management Solution.A tailor-made and Integrated HR management solution with access control, payroll and advanced reporting features.
+Human Resource Management System(HRMS) provides with a complete HR suite for your business that will help respond to various HR challenges. The system comprises of integrated Payroll,Benefits, Employee Information & Management modules that provide a transparent and accurate view of all HR processes in a well-organized and reliable manner. Simplify your HR, Time & Attendance, Payroll and other important HCM functions with ease. Process your Payroll in minutes. Keep it transparent with your employees.
+Cut out unnecessary HR admin, improve your payroll accuracy and spend more time developing your people and organization
 
 ## :hammer_and_wrench: Technology Stack
 
-- .Net
-- SQL
 - React Native
+- SQL
+- .Net
 
 ## :rocket: Getting Started
 
